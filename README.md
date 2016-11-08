@@ -1,11 +1,11 @@
 RTC_FaceChat
 ----------------------------------
-# Screenshot And Gif
+# Demo Display
 <img src="./faceChat1.PNG" width = "256" height = "454.4" alt="faceChat1.PNG" />
 <img src="./faceChat2.PNG" width = "256" height = "454.4" alt="faceChat2.PNG" />
  
-Gif 演示：左下角会黑屏是由于使用了Mac模拟器，无法模拟摄像头。Gif演示了一系列无限的镜像。  
-Gif demonstration: In iOS simulator, we can not open camera.Gif shows infinite mirror images.
+Gif 说明：左下角的黑屏是由于使用了Mac模拟器，无法启用摄像头。Gif演示了一系列无限的镜像。  
+Gif demonstration: In iOS simulator, we can not open camera. Gif shows infinite mirror images.
 
 <img src="./faceChat4.gif" width = "256" height = "454.4" alt="faceChat4.gif" />
 
