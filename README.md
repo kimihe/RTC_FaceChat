@@ -38,7 +38,7 @@ Any fork, issues or pull requests are welcome. Let's improve together and help t
 * 欢迎一切fork，issue，pull request来帮助该项目做得更好。
 
 ### 下载
-* 本页面直接点击绿色下载按钮。或者使用一天clone整个项目。
+* 本页面直接点击绿色下载按钮。或者使用 git clone 整个项目。
 * 下载完成后，建议查看**ViewController.m**以快速熟悉用法。
 
 ### 环境需求
